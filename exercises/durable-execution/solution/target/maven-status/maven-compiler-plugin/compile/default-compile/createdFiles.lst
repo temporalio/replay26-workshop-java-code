@@ -1,0 +1,10 @@
+translationworkflow/TranslationWorkflowImpl.class
+translationworkflow/TranslationActivities.class
+translationworkflow/TranslationWorkflow.class
+translationworkflow/TranslationActivitiesImpl.class
+translationworkflow/model/TranslationWorkflowInput.class
+translationworkflow/model/TranslationWorkflowOutput.class
+translationworkflow/model/TranslationActivityInput.class
+translationworkflow/TranslationWorker.class
+translationworkflow/Starter.class
+translationworkflow/model/TranslationActivityOutput.class

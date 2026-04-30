@@ -1,8 +1,15 @@
+# project files
+commit-msg.md
+tmp/*
+
 # Compiled class file
 *.class
 
 # Log file
 *.log
+
+# Local commit message scratch file
+commit-msg.md
 
 # BlueJ files
 *.ctxt

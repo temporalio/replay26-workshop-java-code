@@ -1,0 +1,10 @@
+/Users/masonegger/Code/Temporal/replay26-workshop-java-code/exercises/durable-execution/solution/src/main/java/translationworkflow/TranslationActivities.java
+/Users/masonegger/Code/Temporal/replay26-workshop-java-code/exercises/durable-execution/solution/src/main/java/translationworkflow/model/TranslationActivityInput.java
+/Users/masonegger/Code/Temporal/replay26-workshop-java-code/exercises/durable-execution/solution/src/main/java/translationworkflow/Starter.java
+/Users/masonegger/Code/Temporal/replay26-workshop-java-code/exercises/durable-execution/solution/src/main/java/translationworkflow/model/TranslationWorkflowInput.java
+/Users/masonegger/Code/Temporal/replay26-workshop-java-code/exercises/durable-execution/solution/src/main/java/translationworkflow/TranslationWorker.java
+/Users/masonegger/Code/Temporal/replay26-workshop-java-code/exercises/durable-execution/solution/src/main/java/translationworkflow/model/TranslationActivityOutput.java
+/Users/masonegger/Code/Temporal/replay26-workshop-java-code/exercises/durable-execution/solution/src/main/java/translationworkflow/TranslationWorkflow.java
+/Users/masonegger/Code/Temporal/replay26-workshop-java-code/exercises/durable-execution/solution/src/main/java/translationworkflow/TranslationActivitiesImpl.java
+/Users/masonegger/Code/Temporal/replay26-workshop-java-code/exercises/durable-execution/solution/src/main/java/translationworkflow/model/TranslationWorkflowOutput.java
+/Users/masonegger/Code/Temporal/replay26-workshop-java-code/exercises/durable-execution/solution/src/main/java/translationworkflow/TranslationWorkflowImpl.java
